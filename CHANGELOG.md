@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-12-10)
+
+
+### Features
+
+* Set combinedkey and distance=0 ([eb63ed5](https://github.com/olavurellefsen/flowcore-nodejs-typescript-transformer-bfo-closedoor/commit/eb63ed5a762388fc5e19ed7fad476780d1869a22))
+
 ## [2.0.0](https://github.com/flowcore-io/nodejs-typescript-transformer-example/compare/v1.3.1...v2.0.0) (2023-10-24)
 
 
